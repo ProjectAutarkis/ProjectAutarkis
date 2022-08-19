@@ -1,4 +1,7 @@
-### Hi there 👋
+### The place to report bugs
+
+This is an empty repository, the code is not stored here, it will be kept private.
+However, we still need to field bug reports from users, so this repository is for that purpose.
 
 <!--
 **ProjectAutarkis/ProjectAutarkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
